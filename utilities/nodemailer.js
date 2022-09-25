@@ -11,8 +11,8 @@ const transport = nodemailer.createTransport({
         user: 'pubgtrending@gmail.com',
         clientId: '35955691910-apqkm8sh86qkrn31qp2br528jubero3f.apps.googleusercontent.com',
         clientSecret: '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',
-        refreshToken: '1//04gTv7Wsy0rSCCgYIARAAGAQSNwF-L9IrCzSRD3Z4G53COuQ10pQ7OxDxG0uZiBsri0R-RzccCtlecXKQuxXhAGFo8JWiHmcGAVE',
-        accessToken: 'ya29.A0ARrdaM_RC9RR2dTygFEApWuKZlzs4M_cAmI8aqwK6VLH5a2nrsfVONhHPAeY3AsraA8BF1OLIwrDA1vFM_vdjgt-UePvk8QZvdsUstRxqFpoGnMNYHbC-ux9bNdevXHLDD1m86bbPlG7RX5kzF2g3oBM6hmw'
+        refreshToken: '1//04mfXn_mcPniKCgYIARAAGAQSNwF-L9Irzqs3S0eutvcHPh54A8Ii4FOR12qh15gMRdbkAm9tAVzXaUq4A2mB80oPc055o0gfhUE',
+        accessToken: 'ya29.a0Aa4xrXPKTCYuMTVr841oP_q18FEJrYptmGostU1JN53TT4qNvN0Olso0deUqGYy8q2nYImw6TE7T_Sz5ae3ovcvOVFAjFJnV24XzYuEzOvcLEzBOrIKWpojEapCf893AbuvtSWslis8-4nHhOfdoSPTGNc_-aCgYKATASARASFQEjDvL9JTnMmesR5UTG3r215FvgvQ0163'
     }
 })
 
